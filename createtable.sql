@@ -50,7 +50,11 @@ INCREMENT BY 10
 
 SELECT NEXT VALUE FOR item_counter;
 
+--look at ur tables , start db line , 
 
+
+
+-- ddl create , alter , drop 
 
 
 
